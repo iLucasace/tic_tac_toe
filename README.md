@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-A simple tic-tac-toe game developed with HTML, CSS and JavaScript.
+A simple tic-tac-toe game developed with Vanilla JavaScript.
 
 ## Running the Project
 
